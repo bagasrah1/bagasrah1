@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
 # Bismillah.. Saya-Tuli, Bagas Calon Analisis Data! 🙋‍♂️
 
 <p align="center" ><b>Selamat Datang, Profil Saya di Github!</b></p>
