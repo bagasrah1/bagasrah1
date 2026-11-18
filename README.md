@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Bismillah.. Saya-Tuli, Bagas Calon Analisis Data! 🙋‍♂️
 
 <p align="center" ><b>Selamat Datang, Profil Saya di Github!</b></p>
@@ -46,7 +47,7 @@ Here are some ideas to get you started:
 
 ## Perjalanan Belajarku
 <p>Repositori GitHub ini merupakan tempat saya mendokumentasikan perjalanan belajar serta membagikan proyek-proyek yang berkaitan dengan analisis data.</p>
-<p>Beberapa bidang yang sedang saya kerjakan di [Teks yang tampil](https://contoh.com) antara lain:</p>
+<p>Beberapa bidang yang sedang saya kerjakan di [Ngulik Data](https://ngulikdata.com/) antara lain:</p>
 <ul>
   <li>Excel/Spreadsheet: Latihan 22 dari 106 selesai</li>
   <li>SQL: latihan dasar 2 dari 19 selesai</li>
