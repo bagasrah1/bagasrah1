@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 ## Skills & Tools
 <p>Saat ini saya sedang mempelajari dan mengembangkan keterampilan teknis saya dalam:</p>
 <ul>
-  <li>Spreadsheets: Google Sheets</li>
-  <li>Database: SQL</li>
-  <li>VS Code: Python</li>
-  <li>Peralatan: Visual Studio Code, Github, Notion, dan Browser</li>
+  <li>Spreadsheets: <b>Google Sheets</b></li>
+  <li>Database: <b>SQL</b></li>
+  <li>VS Code: <b>Python</b></li>
+  <li>Peralatan: <b>Visual Studio Code, Github, Notion, dan Browser</b></li>
 </ul>
 <p>Saya terus memperluas pengetahuan dan meningkatkan keterampilan saya melalui latihan serta proyek-proyek praktis.</p>
 
